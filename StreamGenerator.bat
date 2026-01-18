@@ -36,3 +36,4 @@ java -cp moa.jar moa.DoTask "WriteStreamToARFFFile -s (ConceptDriftStream -s (ge
 %exit /b
 
 
+
